@@ -13,3 +13,7 @@
 
 [Resposta](./ExerciciosResolvidos/ex002.c)
 
+#### 3- Faça um programa que receba do usuário o tamanho de uma string e chame uma função para alocar dinamicamente essa string. Receba esta string do usuário. Por fim, apresente o conteúdo dessa string sem suas vogais.
+
+[Resposta](./ExerciciosResolvidos/ex003.c)
+
